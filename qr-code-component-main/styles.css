@@ -1,0 +1,41 @@
+body {
+    background-color: #66ffff;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center; 
+}
+
+.attribution { 
+    font-size: 0.6875rem; 
+    text-align: center;
+    border: 5px solid #ffffff;
+    border-radius: 25px;
+    width: 400px;
+    padding: 20px;
+    margin: 20px auto 20px auto;
+    background-color: white;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+p {
+    color: grey;
+    font-size: 0.6rem;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.box {
+    background-color: white;
+}
+
+img {
+    border-radius: 25px;
+    width: 400px;
+}
